@@ -1,6 +1,4 @@
 # Selenium Project
-
-project:
   name: Selenium Automation Practice Project
   description: >
     This project contains multiple Selenium WebDriver automation practice
