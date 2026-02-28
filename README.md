@@ -58,7 +58,6 @@ future_enhancements:
   - Add Screenshot capture on failure
   - Implement Data-Driven framework
   - CI/CD integration using GitHub Actions
-
 notes:
   - Remove hs_err_pid*.log files from repository.
   - Add proper .gitignore to avoid committing logs and IDE files.
