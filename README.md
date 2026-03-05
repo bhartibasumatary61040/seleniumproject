@@ -1,5 +1,5 @@
 # Selenium Project
-  name: Selenium Automation Practice Project
+  name:Selenium Automation Practice Project
   description: >
     This project contains multiple Selenium WebDriver automation practice
     programs organized into different packages. It includes real-time
